@@ -1,0 +1,1 @@
+Aim : To show git ' rm --cached <file> ' command use
