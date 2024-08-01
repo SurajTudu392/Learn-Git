@@ -1,0 +1,1 @@
+Aim : To show a deletion of file from Git .
